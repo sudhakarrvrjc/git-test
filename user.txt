@@ -1,1 +1,5 @@
+Im git test.
 Im user entering to txt.
+=======
+
+>>>>>>> f84a634a379e77feefd11fd879dd930defaf08b8
