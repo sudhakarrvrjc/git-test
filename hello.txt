@@ -1,5 +1,11 @@
 Hi i am sudhakr.
-
 Adding
+<<<<<<< HEAD
 
 im test
+=======
+im user
+
+after user
+
+>>>>>>> d8b93d252053e5e45b3bb2381729a86e763d3ee4
